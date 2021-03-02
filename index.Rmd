@@ -1,0 +1,31 @@
+---
+title: "Pollinator review team"
+author: "Julie Davis, Kaitlin Deutsch, Katherine Urban-Mead, Diana Obregon"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Our Github accounts
+
+Julie Davis     
+Kaitlin Deutsch   
+Kass Urban-Mead   
+[Diana Obregon](https://github.com/dianaobregonc)
+
+![](/Users/dianaobregon/Box Sync/Fotos para website o compartir/Bombus in lulo.jpg)
+
+```{r ttt}
+
+
+```
+
+
+
+```{r pressure, echo=FALSE}
+
+```
+
