@@ -8,7 +8,6 @@ navbar:
     - text: "Julie"
       href: julie.html
       
-      output_dir: "."
 output:
   html_document:
     theme: united
