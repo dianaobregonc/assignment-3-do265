@@ -11,10 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Our Github accounts
 
-[Julie Davis]()     
+[Julie Davis](https://github.com/j-k-davis)     
 [Diana Obregon](https://github.com/dianaobregonc)
 
-![Bumble bee in Solanum flower](Bombus in lulo.jpg)
+![](Bombus in lulo.jpg)
 
 ```
 
