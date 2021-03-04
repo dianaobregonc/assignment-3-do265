@@ -1,6 +1,6 @@
 ---
-title: "Pollinator review team"
-author: "Julie Davis, Kaitlin Deutsch, Katherine Urban-Mead, Diana Obregon"
+title: "Team"
+author: "Julie Davis, Diana Obregon"
 date: "3/2/2021"
 output: html_document
 ---
