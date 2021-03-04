@@ -11,14 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Our Github accounts
 
-Julie Davis     
-Kaitlin Deutsch   
-Kass Urban-Mead   
+[Julie Davis]()     
 [Diana Obregon](https://github.com/dianaobregonc)
 
-![](/Users/dianaobregon/Box Sync/Fotos para website o compartir/Bombus in lulo.jpg)
+![Bumble bee in Solanum flower](/Users/dianaobregon/Box Sync/Fotos para website o compartir/Bombus in lulo.jpg)
 
-```{r ttt}
+```
 
 
 ```
