@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Julie Davis](https://github.com/j-k-davis)     
 [Diana Obregon](https://github.com/dianaobregonc)
 
-![](Bombus in lulo.jpg)
+![Foraging Bumble bee](https://www.xerces.org/sites/default/files/styles/psge_banner/public/2019-09/Hatfield_occidentalis_2018_NEOR%20cropped%20for%20banner%20--%20bumble%20bee%20main%20page.jpg?itok=g6-PzqG4)
 
 ```
 
