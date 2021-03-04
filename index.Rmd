@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Julie Davis]()     
 [Diana Obregon](https://github.com/dianaobregonc)
 
-![Bumble bee in Solanum flower](/Users/dianaobregon/Box Sync/Fotos para website o compartir/Bombus in lulo.jpg)
+![Bumble bee in Solanum flower](/Users/dianaobregon/Documents/GitHub/assignment-3-do265/Bombus in lulo.jpg)
 
 ```
 
