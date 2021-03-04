@@ -19,11 +19,3 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```
-
-
-
-```{r pressure, echo=FALSE}
-
-```
-
