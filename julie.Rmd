@@ -1,0 +1,21 @@
+---
+title: ""
+author: ""
+date: ""
+output: html_document
+---
+<style>
+  body {background-color:black}
+</style>
+<body>
+  <h1>Julie</h1>
+  <p></p>
+</body>
+
+### I like to learn and teach about:
+
+* Insects
+* Growing and identifying plants
+* Jelly fish
+
+![](https://mvmagazine.com/sites/mvmagazine/files/article-assets/main-photos/bio.jpg)
