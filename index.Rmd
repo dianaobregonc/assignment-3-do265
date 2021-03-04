@@ -1,6 +1,6 @@
 ---
-title: "Pollinator review team"
-author: "Julie Davis, Kaitlin Deutsch, Katherine Urban-Mead, Diana Obregon"
+title: "Team"
+author: "Julie Davis, Diana Obregon"
 date: "3/2/2021"
 output: html_document
 ---
@@ -11,14 +11,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Our Github accounts
 
-Julie Davis     
-Kaitlin Deutsch   
-Kass Urban-Mead   
+[Julie Davis]()     
 [Diana Obregon](https://github.com/dianaobregonc)
 
-![](/Users/dianaobregon/Box Sync/Fotos para website o compartir/Bombus in lulo.jpg)
+![Bumble bee in Solanum flower](/Users/dianaobregon/Box Sync/Fotos para website o compartir/Bombus in lulo.jpg)
 
-```{r ttt}
+```
 
 
 ```
